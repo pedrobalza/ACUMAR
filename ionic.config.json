@@ -1,0 +1,8 @@
+{
+  "name": "acumar",
+  "app_id": "b521cfc8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
